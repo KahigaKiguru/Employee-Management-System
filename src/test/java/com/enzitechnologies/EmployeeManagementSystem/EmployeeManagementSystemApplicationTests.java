@@ -1,4 +1,4 @@
-package com.enzitechnologies.demo;
+package com.enzitechnologies.EmployeeManagementSystem;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
